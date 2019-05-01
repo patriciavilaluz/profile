@@ -49,6 +49,15 @@ a:hover {
   margin: 0 auto;
 }
 
+.btn-blue {
+  background-color: #8ff0d9;
+  color: white;
+  padding: 5px 9px;
+  display: inline-block;
+  margin-top: 16px;
+  border-radius: 4px;
+}
+
 .container {
   width: 500px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */

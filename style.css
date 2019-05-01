@@ -57,6 +57,7 @@ a:hover {
   display: inline-block;
   margin-top: 16px;
   border-radius: 4px;
+}
 
 .container {
   width: 500px;   /* This sets the width */

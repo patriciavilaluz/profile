@@ -33,6 +33,7 @@ a:hover {
   background-color: #a9feea;
 }
 
+
 .card {
   background-color: white;
   width: 450px;
@@ -48,6 +49,14 @@ a:hover {
   border-radius: 25px;
   margin: 0 auto;
 }
+
+.btn-blue {
+  background-color: #9bf5df;
+  color: white;
+  padding: 9px 15px;
+  display: inline-block;
+  margin-top: 16px;
+  border-radius: 4px;
 
 .container {
   width: 500px;   /* This sets the width */

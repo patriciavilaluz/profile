@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700" rel="stylesheet");
+
+body {
+  background-color: #f7f9fc;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #474f52;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  line-height: 1.6;
+}
+
+p {
+  color: #3c2d6e;
+}
+
+h2 {
+  color: #474f52;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #322a7d;
+}
+
+a:hover {
+  background-color: #a9feea;
+}
+
+.card {
+  background-color: white;
+  width: 450px;
+  margin: 35px auto;
+  padding: 50px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  text-align: center;
+}
+
+.img-circle {
+  width: 100px;
+  border-radius: 25px;
+  margin: 0 auto;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.list-inline > li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
